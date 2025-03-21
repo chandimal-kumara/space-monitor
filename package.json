@@ -1,0 +1,15 @@
+{
+  "name": "node_mailer",
+  "version": "1.0.0",
+  "description": "mail when low space",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.10.0"
+  }
+}
